@@ -1,10 +1,10 @@
-# Google's website recreation
+# Google website recreation
 >status: Completed ✅
 
 # About the project.
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google&logoColor=white) Google's website recreation.
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google&logoColor=white) Google website recreation.
 
-![Print Google's website recreation](https://github.com/PedroCuri88/Google---Website/assets/174622769/d2d830f1-d402-41c3-9869-128efd29ff65)
+![Print Google website recreation](https://github.com/PedroCuri88/Google---Website/assets/174622769/d2d830f1-d402-41c3-9869-128efd29ff65)
 
 # Technologies used
 ## Front-end
